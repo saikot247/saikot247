@@ -5,7 +5,7 @@
 
 Enthusiastic and skilled Frontend Developer with expertise in HTML, CSS, JavaScript, and popular frontend libraries and frameworks. Proficient in designing and developing user-friendly interfaces that deliver exceptional user experiences. Strong knowledge of responsive design principles, performance optimization, and modern development tools. Adept at collaborating with cross-functional teams to deliver high-quality web applications.
 
-Skills: REACT /JQUERY / JS / HTML / CSS / TAILWINDCSS
+Skills: PHP / Laravel / React / Vue / JQUERY / JS / HTML / CSS / Tailwindcss / Bootstrap
 
 - 🌱 I’m currently learning JavaScript 
 - 👯 I’m looking to collaborate on Github 
