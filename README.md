@@ -7,7 +7,7 @@ Enthusiastic and skilled Frontend Developer with expertise in HTML, CSS, JavaScr
 
 Skills: PHP / Laravel / React / Vue / JQUERY / JS / HTML / CSS / Tailwindcss / Bootstrap
 
-- 🌱 I’m currently learning JavaScript 
+- 🌱 I’m currently learning Laravel
 - 👯 I’m looking to collaborate on Github 
 
 
